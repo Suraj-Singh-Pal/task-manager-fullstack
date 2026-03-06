@@ -110,10 +110,11 @@ EMAIL_PASS=your_app_password
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-(Add screenshots of your UI here)
-
+![Dashboard](screenshots/dashboard.png)
+![Kanban](screenshots/kanban.png)
+![Loginpage](screenshots/loginpage.png)
 ---
 
 ## 👨‍💻 Author
