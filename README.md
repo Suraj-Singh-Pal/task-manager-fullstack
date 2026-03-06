@@ -112,9 +112,14 @@ EMAIL_PASS=your_app_password
 
 ## Screenshots
 
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+### Kanban Board
 ![Kanban](screenshots/kanban.png)
-![Loginpage](screenshots/loginpage.png)
+
+### Login Page
+![Login](screenshots/login.png)
 ---
 
 ## 👨‍💻 Author
